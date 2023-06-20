@@ -25,5 +25,5 @@
 # 👟 Recreation
 | Places | Addy | Description | Notes |
 | --- | --- | --- | --- |
-| [Volunteer Park](https://www.seattle.gov/parks/allparks/volunteer-park) | 1247 15th Ave E | Park |
+| [Volunteer Park](https://www.seattle.gov/parks/allparks/volunteer-park) | 1247 15th Ave E | Park | Perf for Pokemon Go |
 | [Cal Anderson Park](https://www.calandersonpark.org/) | 1635 11th Ave | Park
