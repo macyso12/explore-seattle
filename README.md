@@ -17,3 +17,4 @@
 | [Seattle Aquarium](https://www.seattleaquarium.org/) | 1483 Alaskan Way Pier 59 | Aquqrium |
 | [Time Wrap](https://ramyunbar.com/) | 1420 10th Ave | Old Arcade + Bar
 | [Museum of Museums](https://www.museumofmuseums.com/) | 900 Boylston Ave | Museum |
+| [Sweet Alchemy Ice Creamery](http://sweetalchemyicecreamery.com/) | 4301 University Way NE | Ice Cream Store |
