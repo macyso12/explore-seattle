@@ -1,8 +1,8 @@
-# Explore Seattle
+# 🌱 Explore Seattle
 
 ![city tour of Seattle](https://github.com/macyso12/explore-seattle/assets/75864321/13af8624-3cc6-4957-a2a8-c2b757215250)
 
-# Entertainment/Recreation
+# 🛹 Entertainment/Recreation
 | Places | Addy | Description | Notes |
 | --- | --- | --- | --- |
 | [Neko Cat Cafe](https://nekocatcafe.com/) | 519 E Pine St | it's a CAT cafe | Reservation recommended please | 
@@ -18,7 +18,7 @@
 | [Seattle Aquarium](https://www.seattleaquarium.org/) | 1483 Alaskan Way Pier 59 | Aquqrium |
 | [Museum of Museums](https://www.museumofmuseums.com/) | 900 Boylston Ave | Museum |
 
-# Food
+# 🍱 Food
 | Places | Addy | Description | Notes |
 | --- | --- | --- | --- |
 | [Mark Thai Food Box](http://www.markhomemadethai.com/) | 1313 NE 43rd St | They have mango sticky rice!! |
