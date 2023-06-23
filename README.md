@@ -15,7 +15,8 @@
 | [Seattle Center](https://www.seattlecenter.com/) | 305 Harrison St | Comunity Center |
 | [Seattle Aquarium](https://www.seattleaquarium.org/) | 1483 Alaskan Way Pier 59 | Aquqrium |
 | [Museum of Museums](https://www.museumofmuseums.com/) | 900 Boylston Ave | Museum |
-| [Museum of Pop] (https://mopop.org/) | 325 5th Ave N | Museum
+| [Museum of Pop](https://mopop.org/) | 325 5th Ave N | Museum |
+| [Dave & Busters](https://www.daveandbusters.com/us/en/about/locations/bellevue) | 11639 NE 4th St, Bellevue | Arcade |
 
 # 🍱 Food
 | Places | Addy | Description | Notes |
