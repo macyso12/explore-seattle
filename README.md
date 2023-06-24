@@ -23,6 +23,7 @@
 | --- | --- | --- | --- |
 | [Mark Thai Food Box](http://www.markhomemadethai.com/) | 1313 NE 43rd St | They have mango sticky rice!! |
 | [Sweet Alchemy Ice Creamery](http://sweetalchemyicecreamery.com/) | 4301 University Way NE | Ice Cream Store |
+| [Korean Tofu House Express](https://koreantofuhouseexpress.com/) | 4520 University Way NE | Tofu Soup
 
 # 👟 Recreation
 | Places | Addy | Description | Notes |
