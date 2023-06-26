@@ -15,6 +15,7 @@
 | [Seattle Center](https://www.seattlecenter.com/) | 305 Harrison St | Comunity Center |
 | [Seattle Aquarium](https://www.seattleaquarium.org/) | 1483 Alaskan Way Pier 59 | Aquqrium |
 | [Museum of Museums](https://www.museumofmuseums.com/) | 900 Boylston Ave | Museum |
+| [Museum of Pop] (https://mopop.org/) | 325 5th Ave N | Museum
 
 # 🍱 Food
 | Places | Addy | Description | Notes |
