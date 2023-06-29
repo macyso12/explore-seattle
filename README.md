@@ -25,6 +25,7 @@
 | [Sweet Alchemy Ice Creamery](http://sweetalchemyicecreamery.com/) | 4301 University Way NE | Ice Cream Store |
 | [Korean Tofu House Express](https://koreantofuhouseexpress.com/) | 4520 University Way NE | Tofu Soup
 | [Fern Thai Eatery & Bar](https://www.fernthaioncaphill.com/) | 1400 10th Ave | Thai Food
+| [Bai Tong Thai Street Cafe](https://www.baitongthaistreetcafe.com/menu) | 1121 E Pike St | Thai Food
 
 # 👟 Recreation
 | Places | Addy | Description | Notes |
