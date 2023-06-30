@@ -12,7 +12,7 @@
 | [Time Wrap](https://ramyunbar.com/) | 1420 10th Ave | Old Arcade + Bar
 | [Pikes Place Market](https://www.pikeplacemarket.org/) | Neighbourhood | Fishermen/Local Market |
 | [Robots vs Sloth](https://www.robotvsloth.com/) | 1535 1st Ave | Cute Stuff Store | 
-| [Seattle Center](https://www.seattlecenter.com/) | 305 Harrison St | Comunity Center |
+| [Seattle Center](https://www.seattlecenter.com/) | 305 Harrison St | Comunity Center | Sometimes they have people doing henna near the Space Needle |
 | [Seattle Aquarium](https://www.seattleaquarium.org/) | 1483 Alaskan Way Pier 59 | Aquqrium |
 | [Museum of Museums](https://www.museumofmuseums.com/) | 900 Boylston Ave | Museum |
 | [Museum of Pop](https://mopop.org/) | 325 5th Ave N | Museum |
