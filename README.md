@@ -23,9 +23,10 @@
 | --- | --- | --- | --- |
 | [Mark Thai Food Box](http://www.markhomemadethai.com/) | 1313 NE 43rd St | They have mango sticky rice!! |
 | [Sweet Alchemy Ice Creamery](http://sweetalchemyicecreamery.com/) | 4301 University Way NE | Ice Cream Store |
-| [Korean Tofu House Express](https://koreantofuhouseexpress.com/) | 4520 University Way NE | Tofu Soup
-| [Fern Thai Eatery & Bar](https://www.fernthaioncaphill.com/) | 1400 10th Ave | Thai Food
-| [Bai Tong Thai Street Cafe](https://www.baitongthaistreetcafe.com/menu) | 1121 E Pike St | Thai Food
+| [Korean Tofu House Express](https://koreantofuhouseexpress.com/) | 4520 University Way NE | Tofu Soup |
+| [Fern Thai Eatery & Bar](https://www.fernthaioncaphill.com/) | 1400 10th Ave | Thai Food |
+| [Bai Tong Thai Street Cafe](https://www.baitongthaistreetcafe.com/menu) | 1121 E Pike St | Thai Food |
+| [OH! Bear Cafe & TeaHouse ](https://www.ohbearcafe.com/) | 4708 11th Ave NE | Coffee shop & Dessert Place |
 
 # 👟 Recreation
 | Places | Addy | Description | Notes |
