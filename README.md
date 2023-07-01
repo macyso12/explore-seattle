@@ -12,7 +12,7 @@
 | [Time Wrap](https://ramyunbar.com/) | 1420 10th Ave | Old Arcade + Bar
 | [Pikes Place Market](https://www.pikeplacemarket.org/) | Neighbourhood | Fishermen/Local Market |
 | [Robots vs Sloth](https://www.robotvsloth.com/) | 1535 1st Ave | Cute Stuff Store | 
-| [Seattle Center](https://www.seattlecenter.com/) | 305 Harrison St | Comunity Center |
+| [Seattle Center](https://www.seattlecenter.com/) | 305 Harrison St | Comunity Center | Sometimes they have people doing henna near the Space Needle |
 | [Seattle Aquarium](https://www.seattleaquarium.org/) | 1483 Alaskan Way Pier 59 | Aquqrium |
 | [Museum of Museums](https://www.museumofmuseums.com/) | 900 Boylston Ave | Museum |
 | [Museum of Pop](https://mopop.org/) | 325 5th Ave N | Museum |
@@ -23,9 +23,10 @@
 | --- | --- | --- | --- |
 | [Mark Thai Food Box](http://www.markhomemadethai.com/) | 1313 NE 43rd St | They have mango sticky rice!! |
 | [Sweet Alchemy Ice Creamery](http://sweetalchemyicecreamery.com/) | 4301 University Way NE | Ice Cream Store |
-| [Korean Tofu House Express](https://koreantofuhouseexpress.com/) | 4520 University Way NE | Tofu Soup
-| [Fern Thai Eatery & Bar](https://www.fernthaioncaphill.com/) | 1400 10th Ave | Thai Food
-| [Bai Tong Thai Street Cafe](https://www.baitongthaistreetcafe.com/menu) | 1121 E Pike St | Thai Food
+| [Korean Tofu House Express](https://koreantofuhouseexpress.com/) | 4520 University Way NE | Tofu Soup | Highly reccomend if you love TOFU soup like me - my go-to is the seagood and vegetable ones.
+| [Fern Thai Eatery & Bar](https://www.fernthaioncaphill.com/) | 1400 10th Ave | Thai Food |
+| [Bai Tong Thai Street Cafe](https://www.baitongthaistreetcafe.com/menu) | 1121 E Pike St | Thai Food |
+| [OH! Bear Cafe & TeaHouse ](https://www.ohbearcafe.com/) | 4708 11th Ave NE | Coffee shop & Dessert Place | Have very aesthetically pleasing dessert |
 
 # 👟 Recreation
 | Places | Addy | Description | Notes |
