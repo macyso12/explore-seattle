@@ -35,5 +35,6 @@
 | [Cal Anderson Park](https://www.calandersonpark.org/) | 1635 11th Ave | Park |
 | [Snoqualmie Falls](https://www.snoqualmiefalls.com/) | Snoqualmie Falls | WaterFall 
 | [Gas Work Park](https://www.seattle.gov/parks/allparks/gas-works-park) | 2101 N Northlake Way | Park
+| [SourDough Ridge Trail](https://www.wta.org/go-hiking/hikes/sourdough-ridge) | Mount Rainier National Park | Hike | Have to go early or else they are going to turn you away |
 
-Last Updated: July 1st, 2023
+Last Updated: July 2nd, 2023
