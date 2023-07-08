@@ -1,4 +1,4 @@
-# 🌱 Explore Seattle
+# 🌱 Explore Seattle 
 
 ![city tour of Seattle](https://github.com/macyso12/explore-seattle/assets/75864321/13af8624-3cc6-4957-a2a8-c2b757215250)
 
