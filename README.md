@@ -39,5 +39,7 @@
 | [SourDough Ridge Trail](https://www.wta.org/go-hiking/hikes/sourdough-ridge) | Mount Rainier National Park | Hike | Have to go early or else they are going to turn you away |
 | [LifeLong Thift Store](https://www.lifelongthrift.com/) | 312 Broadway E | Very Cheap Thift Store | They have daily deals, and we got a skirt for 0.5 cent |
 | [Kerry Park](https://www.seattle.gov/parks/allparks/kerry-park) | 211 W Highland Dr | Park | Public park and viewpoint on the south slope of Queen Anne Hill | 
+| [Washington Park Arboretum](https://botanicgardens.uw.edu/washington-park-arboretum/) | 2300 Arboretum Dr E | Park | A joint project of the University of Washington, the Seattle Parks and Recreation, and the nonprofit Arboretum Foundation |
+
 
 Last Updated: July 3rd, 2023
