@@ -43,4 +43,4 @@
 | [Washington Park Arboretum](https://botanicgardens.uw.edu/washington-park-arboretum/) | 2300 Arboretum Dr E | Park | A joint project of the University of Washington, the Seattle Parks and Recreation, and the nonprofit Arboretum Foundation |
 
 
-Last Updated: July 5th, 2023
+Last Updated: July 7th, 2023
