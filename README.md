@@ -18,6 +18,7 @@
 | [Museum of Pop](https://mopop.org/) | 325 5th Ave N | Museum |
 | [Dave & Busters](https://www.daveandbusters.com/us/en/about/locations/bellevue) | 11639 NE 4th St, Bellevue | Arcade |
 | [Woodland Park Zoo](https://www.zoo.org/) | 5500 Phinney Ave N | Zoo |
+| [Seattle Art Museum](https://www.seattleartmuseum.org/) | 1300 1st Ave | Museum | Free Admission: First Thursday of every month |
 
 # 🍱 Food
 | Places | Addy | Description | Notes |
