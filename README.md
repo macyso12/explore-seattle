@@ -41,6 +41,9 @@
 | [LifeLong Thift Store](https://www.lifelongthrift.com/) | 312 Broadway E | Very Cheap Thift Store | They have daily deals, and we got a skirt for 0.5 cent |
 | [Kerry Park](https://www.seattle.gov/parks/allparks/kerry-park) | 211 W Highland Dr | Park | Public park and viewpoint on the south slope of Queen Anne Hill | 
 | [Washington Park Arboretum](https://botanicgardens.uw.edu/washington-park-arboretum/) | 2300 Arboretum Dr E | Park | A joint project of the University of Washington, the Seattle Parks and Recreation, and the nonprofit Arboretum Foundation |
+| [Ballard (Hiram M. Chittenden) Locks](https://ballardlocks.org) | 3015 NW 54th St | | A complex of locks at the west end of Salmon Bay in Seattle, Washington's Lake Washington Ship Canal | 
+| [The Seattle Great Wheel](https://seattlegreatwheel.com/) | 1301 Alaskan Wy | Ferris Wheel | It was the tallest Ferris wheel on the West Coast of the United States when it opened in June 2012 |
+| [Chihuly Garden and Glass](https://www.chihulygardenandglass.com/) | 305 Harrison St | Glass Museum | Showcasing the studio glass of Dale Chihuly |
 
 
 Last Updated: July 9th, 2023
