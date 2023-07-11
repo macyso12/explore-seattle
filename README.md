@@ -22,7 +22,7 @@
 | [The Seattle Great Wheel](https://seattlegreatwheel.com/) | 1301 Alaskan Wy | Ferris Wheel | It was the tallest Ferris wheel on the West Coast of the United States when it opened in June 2012 |
 | [Chihuly Garden and Glass](https://www.chihulygardenandglass.com/) | 305 Harrison St | Glass Museum | Showcasing the studio glass of Dale Chihuly |
 | [Seattle Center Monorail](https://visitseattle.org/partners/seattle-center-monorail-pd/) | 370 Thomas St #200 | Train | The designated historic landmark can reach a top speed of 45 miles per hour and weaves between skyscrapers above the city streets. |
-| [Pacific Science Center](https://visitseattle.org/partners/pacific-science-center-pd/) | Museum | Explore galaxies near and far in the planetarium, get up close and personal with colorful creatures | 
+| [Pacific Science Center](https://visitseattle.org/partners/pacific-science-center-pd/) |200 2nd Ave N | Museum | Explore galaxies near and far in the planetarium, get up close and personal with colorful creatures | 
 
 
 # 🍱 Food
