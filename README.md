@@ -24,6 +24,7 @@
 | [Seattle Center Monorail](https://visitseattle.org/partners/seattle-center-monorail-pd/) | 370 Thomas St #200 | Train | The designated historic landmark can reach a top speed of 45 miles per hour and weaves between skyscrapers above the city streets. |
 | [Pacific Science Center](https://visitseattle.org/partners/pacific-science-center-pd/) |200 2nd Ave N | Museum | Explore galaxies near and far in the planetarium, get up close and personal with colorful creatures | 
 | [Museum of Flight](https://visitseattle.org/partners/the-museum-of-flight-pd/) | | Museum | One of the largest air and space collections in the country|
+| [Pioneer Square](https://www.pioneersquare.org/) | Seattle, Washington | Neighborhood | Beautiful old buildings in Romanesque Revival style |
 
 # 🍱 Food
 | Places | Addy | Description | Notes |
