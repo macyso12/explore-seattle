@@ -48,4 +48,4 @@
 | [Washington Park Arboretum](https://botanicgardens.uw.edu/washington-park-arboretum/) | 2300 Arboretum Dr E | Park | A joint project of the University of Washington, the Seattle Parks and Recreation, and the nonprofit Arboretum Foundation |
 | [Ballard (Hiram M. Chittenden) Locks](https://ballardlocks.org) | 3015 NW 54th St | | A complex of locks at the west end of Salmon Bay in Seattle, Washington's Lake Washington Ship Canal | 
 
-Last Updated: July 11th, 2023
+Last Updated: July 12th, 2023
