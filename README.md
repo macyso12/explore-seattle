@@ -25,6 +25,7 @@
 | [Pacific Science Center](https://visitseattle.org/partners/pacific-science-center-pd/) |200 2nd Ave N | Museum | Explore galaxies near and far in the planetarium, get up close and personal with colorful creatures | 
 | [Museum of Flight](https://visitseattle.org/partners/the-museum-of-flight-pd/) | | Museum | One of the largest air and space collections in the country|
 | [Pioneer Square](https://www.pioneersquare.org/) | Seattle, Washington | Neighborhood | Beautiful old buildings in Romanesque Revival style |
+| [Chinatown-International District](https://www.seattlechinatownid.com/) | Seattle, Washington | Neighborhood | The ornate Chinatown Gate welcomes you to this diverse neighborhood, where the food scene is incredible |
 
 # 🍱 Food
 | Places | Addy | Description | Notes |
