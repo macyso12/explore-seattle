@@ -34,6 +34,7 @@
 | [Fern Thai Eatery & Bar](https://www.fernthaioncaphill.com/) | 1400 10th Ave | Thai Food |
 | [Bai Tong Thai Street Cafe](https://www.baitongthaistreetcafe.com/menu) | 1121 E Pike St | Thai Food |
 | [OH! Bear Cafe & TeaHouse ](https://www.ohbearcafe.com/) | 4708 11th Ave NE | Coffee shop & Dessert Place | Have very aesthetically pleasing dessert |
+| [Woodinville Wine Country](https://woodinvillewinecountry.com/) |  13590 NE Village Square Dr, Suite 1030 | Wineries | Offers an abundance of fine wineries producing world class wines | 
 
 # 👟 Recreation
 | Places | Addy | Description | Notes |
