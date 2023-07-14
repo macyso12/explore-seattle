@@ -26,6 +26,7 @@
 | [Museum of Flight](https://visitseattle.org/partners/the-museum-of-flight-pd/) | | Museum | One of the largest air and space collections in the country|
 | [Pioneer Square](https://www.pioneersquare.org/) | Seattle, Washington | Neighborhood | Beautiful old buildings in Romanesque Revival style |
 | [Chinatown-International District](https://www.seattlechinatownid.com/) | Seattle, Washington | Neighborhood | The ornate Chinatown Gate welcomes you to this diverse neighborhood, where the food scene is incredible |
+| [Museum of History & Industry (MOHAI)](https://mohai.org/) | 860 Terry Ave N | Museum | Encapsulates what Seattle is all about, with a dash of smart history, a dose of technology, and quirky artifacts
 
 # 🍱 Food
 | Places | Addy | Description | Notes |
