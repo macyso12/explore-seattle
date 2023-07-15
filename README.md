@@ -24,6 +24,9 @@
 | [Seattle Center Monorail](https://visitseattle.org/partners/seattle-center-monorail-pd/) | 370 Thomas St #200 | Train | The designated historic landmark can reach a top speed of 45 miles per hour and weaves between skyscrapers above the city streets. |
 | [Pacific Science Center](https://visitseattle.org/partners/pacific-science-center-pd/) |200 2nd Ave N | Museum | Explore galaxies near and far in the planetarium, get up close and personal with colorful creatures | 
 | [Museum of Flight](https://visitseattle.org/partners/the-museum-of-flight-pd/) | | Museum | One of the largest air and space collections in the country|
+| [Pioneer Square](https://www.pioneersquare.org/) | Seattle, Washington | Neighborhood | Beautiful old buildings in Romanesque Revival style |
+| [Chinatown-International District](https://www.seattlechinatownid.com/) | Seattle, Washington | Neighborhood | The ornate Chinatown Gate welcomes you to this diverse neighborhood, where the food scene is incredible |
+| [Museum of History & Industry (MOHAI)](https://mohai.org/) | 860 Terry Ave N | Museum | Encapsulates what Seattle is all about, with a dash of smart history, a dose of technology, and quirky artifacts
 
 # 🍱 Food
 | Places | Addy | Description | Notes |
@@ -34,6 +37,7 @@
 | [Fern Thai Eatery & Bar](https://www.fernthaioncaphill.com/) | 1400 10th Ave | Thai Food |
 | [Bai Tong Thai Street Cafe](https://www.baitongthaistreetcafe.com/menu) | 1121 E Pike St | Thai Food |
 | [OH! Bear Cafe & TeaHouse ](https://www.ohbearcafe.com/) | 4708 11th Ave NE | Coffee shop & Dessert Place | Have very aesthetically pleasing dessert |
+| [Woodinville Wine Country](https://woodinvillewinecountry.com/) |  13590 NE Village Square Dr, Suite 1030 | Wineries | Offers an abundance of fine wineries producing world class wines | 
 | [Spinasse](http://www.spinasse.com/) | 1531 14th Avenue, Seattle | Best Italian restaurant
 
 # 👟 Recreation
@@ -49,4 +53,4 @@
 | [Washington Park Arboretum](https://botanicgardens.uw.edu/washington-park-arboretum/) | 2300 Arboretum Dr E | Park | A joint project of the University of Washington, the Seattle Parks and Recreation, and the nonprofit Arboretum Foundation |
 | [Ballard (Hiram M. Chittenden) Locks](https://ballardlocks.org) | 3015 NW 54th St | | A complex of locks at the west end of Salmon Bay in Seattle, Washington's Lake Washington Ship Canal | 
 
-Last Updated: July 11th, 2023
+Last Updated: July 12th, 2023
