@@ -38,7 +38,8 @@
 | [Bai Tong Thai Street Cafe](https://www.baitongthaistreetcafe.com/menu) | 1121 E Pike St | Thai Food |
 | [OH! Bear Cafe & TeaHouse ](https://www.ohbearcafe.com/) | 4708 11th Ave NE | Coffee shop & Dessert Place | Have very aesthetically pleasing dessert |
 | [Woodinville Wine Country](https://woodinvillewinecountry.com/) |  13590 NE Village Square Dr, Suite 1030 | Wineries | Offers an abundance of fine wineries producing world class wines | 
-| [Spinasse](http://www.spinasse.com/) | 1531 14th Avenue, Seattle | Best Italian restaurant
+| [Spinasse](http://www.spinasse.com/) | 1531 14th Avenue, Seattle | Best Italian restaurant|
+| [Kamonegi](https://www.kamonegiseattle.com/) | 1054 N 39th st, Seattle | Japanese | quiet soba-focused Japanese restaurant in Fremont | 
 
 # 👟 Recreation
 | Places | Addy | Description | Notes |
