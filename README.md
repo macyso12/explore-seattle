@@ -40,6 +40,7 @@
 | [Woodinville Wine Country](https://woodinvillewinecountry.com/) |  13590 NE Village Square Dr, Suite 1030 | Wineries | Offers an abundance of fine wineries producing world class wines | 
 | [Spinasse](http://www.spinasse.com/) | 1531 14th Avenue, Seattle | Best Italian restaurant|
 | [Kamonegi](https://www.kamonegiseattle.com/) | 1054 N 39th st, Seattle | Japanese | quiet soba-focused Japanese restaurant in Fremont | 
+| [Bateau](https://restaurantbateau.com/) | 1040 E Union st, Seattle | Steak | 
 
 # 👟 Recreation
 | Places | Addy | Description | Notes |
