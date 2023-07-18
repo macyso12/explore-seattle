@@ -43,6 +43,7 @@
 | [Bateau](https://restaurantbateau.com/) | 1040 E Union st, Seattle | Steak | Located in Fremont | 
 | [The Pink Door](http://thepinkdoor.net/) | 1919 Post Aly, Seattle | Italian | Located in Downtown | 
 | [The Walrus And The Carpenter](http://thewalrusbar.com/) | 4743 Ballard Avenue NW, Seattle | Seafood | Located in Ballard | 
+| [Un Bien](http://unbienseattle.com/) | 6226 Seaview Avenue NW, Seattle | Caribbean | Located in Ballard |
 
 # 👟 Recreation
 | Places | Addy | Description | Notes |
