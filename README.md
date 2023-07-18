@@ -42,6 +42,7 @@
 | [Kamonegi](https://www.kamonegiseattle.com/) | 1054 N 39th st, Seattle | Japanese | quiet soba-focused Japanese restaurant in Fremont | 
 | [Bateau](https://restaurantbateau.com/) | 1040 E Union st, Seattle | Steak | Located in Fremont | 
 | [The Pink Door](http://thepinkdoor.net/) | 1919 Post Aly, Seattle | Italian | Located in Downtown | 
+| [The Walrus And The Carpenter](http://thewalrusbar.com/) | 4743 Ballard Avenue NW, Seattle | Seafood | Located in Ballard | 
 
 # 👟 Recreation
 | Places | Addy | Description | Notes |
