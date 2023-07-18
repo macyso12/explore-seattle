@@ -40,8 +40,8 @@
 | [Woodinville Wine Country](https://woodinvillewinecountry.com/) |  13590 NE Village Square Dr, Suite 1030 | Wineries | Offers an abundance of fine wineries producing world class wines | 
 | [Spinasse](http://www.spinasse.com/) | 1531 14th Avenue, Seattle | Best Italian restaurant|
 | [Kamonegi](https://www.kamonegiseattle.com/) | 1054 N 39th st, Seattle | Japanese | quiet soba-focused Japanese restaurant in Fremont | 
-| [Bateau](https://restaurantbateau.com/) | 1040 E Union st, Seattle | Steak | 
-| [The Pink Door](http://thepinkdoor.net/) | 1919 Post Aly, Seattle | Italian
+| [Bateau](https://restaurantbateau.com/) | 1040 E Union st, Seattle | Steak | Located in Fremont | 
+| [The Pink Door](http://thepinkdoor.net/) | 1919 Post Aly, Seattle | Italian | Located in Downtown | 
 
 # 👟 Recreation
 | Places | Addy | Description | Notes |
